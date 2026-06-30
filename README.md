@@ -214,19 +214,24 @@ I also work on large-scale C#/.NET WinForms applications involving CRM, accounti
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=itsmertdemirr&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark" alt="Mert Demir GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmertdemirr&layout=compact&hide_border=true&langs_count=8&theme=github_dark" alt="Most used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsmertdemirr&theme=github_dark" alt="Mert Demir GitHub profile details" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=itsmertdemirr&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsmertdemirr&theme=github_dark" alt="Mert Demir GitHub statistics" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsmertdemirr&theme=github_dark" alt="Mert Demir most used languages" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=itsmertdemirr&theme=github-dark-blue&hide_border=true" alt="Mert Demir GitHub contribution streak" />
 
 </div>
 
-> GitHub language statistics only reflect public repository contents and do not represent my complete technical experience.
+> Language cards are calculated from public, non-fork repositories and do not represent my complete technical experience.
 
 ---
+
 
 ## 🎯 Development Principles
 
