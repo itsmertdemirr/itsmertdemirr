@@ -45,6 +45,7 @@ languages:
   - C#
   - JavaScript
   - SQL
+  - C++
 
 currently_learning:
   - Software Architecture
